@@ -1,0 +1,1 @@
+# Aws-resource-listing-automation-script
